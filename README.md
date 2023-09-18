@@ -1,4 +1,8 @@
-# ![Texto Alternativo](https://github.com/BreidlyAE/BreidlyAE/blob/02547261e052175516072739b56e17410bb5c775/manufacturing64fb.png)
+# ![Texto Alternativo](https://github.com/BreidlyAE/BreidlyAE/blob/02547261e052175516072739b56e17410bb5c775/manufacturing64fb.png) Hola, mi nombre es Breidly Espinal 👋
+
+<!-- insetar portada (Opcional) -->
+
+Estdiante de Ingenieria de Software con experiencia en programacion y control de equipos industriales
 
 ### Hi there 👋
 

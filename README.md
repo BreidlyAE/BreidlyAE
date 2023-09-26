@@ -2,7 +2,7 @@
 
 <!-- insetar portada (Opcional) -->
 
-Estudiante de Ingenieria de Software con experiencia en programación y control de equipos industriales
+Estudiante de Ingenieria de Software con experiencia en programación y control de equipos industriales 🏭
 
 ### Hi there 👋
 
